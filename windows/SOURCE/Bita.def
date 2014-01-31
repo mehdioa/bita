@@ -1,0 +1,4 @@
+LIBRARY Bita
+ 
+ EXPORTS 
+    KbdLayerDescriptor @1
