@@ -128,7 +128,7 @@ url(../images/services.png) }
 url(../images/contact.png) 
 }
 
-.main_box { min-height: 600px; padding-bottom: 30px }
+.main_box {padding-bottom: 30px }
 
 .img_float_l { float: right; margin: 3px 30px 5px 0 }
 .img_float_r { float: left; margin: 3px 0 5px 30px } 
