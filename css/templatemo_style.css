@@ -103,8 +103,8 @@ background: url(../images/templatemo_list.png) no-repeat scroll 0 5px  }
 	background: url(../images/templatemo_footer.png) no-repeat top center
 }
 
-#site_title { display: block; width: 260px; }
-#site_title a { display: block; width: 662px; height: 180px; text-indent: 
+#site_title { display: block; width: 570px; }
+#site_title a { display: block; width: 570px; height: 160px; text-indent: 
 -10000px; background: url(../images/bita-logo.png) no-repeat }
 
 #templatmeo_menu ul { margin: 0; padding: 0; list-style: none }
